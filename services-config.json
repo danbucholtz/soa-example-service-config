@@ -1,5 +1,6 @@
 {
 	"development":{
+		"protocol": "http",
         "authenticationServiceIp" : "localhost",
         "authenticationServicePort" : 3002,
         "mongoUri": "mongodb://localhost:27017/soa",
