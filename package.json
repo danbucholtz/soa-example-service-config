@@ -1,0 +1,11 @@
+{
+  "name": "soa-example-service-config",
+  "version": "0.0.0",
+  "description": "This is just a utility to easily access the different URLs of the services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Bucholtz",
+  "license": "MIT License"
+}
