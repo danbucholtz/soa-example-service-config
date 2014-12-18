@@ -4,6 +4,8 @@
         "authenticationServiceIp" : "localhost",
         "authenticationServicePort" : 3002,
         "mongoUri": "mongodb://localhost:27017/soa",
+        "permissionsServiceIp" : "localhost",
+        "permissionsServicePort" : 3003,
         "userServiceIp" : "localhost",
         "userServicePort" : 3001
 	}
