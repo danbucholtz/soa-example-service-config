@@ -1,12 +1,12 @@
 {
 	"development":{
-		"protocol": "http",
-        "authenticationServiceIp" : "localhost",
-        "authenticationServicePort" : 3002,
-        "mongoUri": "mongodb://localhost:27017/soa",
-        "permissionsServiceIp" : "localhost",
-        "permissionsServicePort" : 3003,
-        "userServiceIp" : "localhost",
-        "userServicePort" : 3001
+	       "protocol": "http",
+                "authenticationServiceIp" : "localhost",
+                "authenticationServicePort" : 3002,
+                "mongoUri": "mongodb://localhost:27017/soa",
+                "authorizationServiceIp" : "localhost",
+                "authorizationServicePort" : 3003,
+                "userServiceIp" : "localhost",
+                "userServicePort" : 3001
 	}
 }
