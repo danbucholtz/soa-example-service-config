@@ -3,9 +3,11 @@
 	       "protocol": "http",
                 "authenticationServiceIp" : "localhost",
                 "authenticationServicePort" : 3002,
-                "mongoUri": "mongodb://localhost:27017/soa",
                 "authorizationServiceIp" : "localhost",
                 "authorizationServicePort" : 3003,
+                "loggingServiceIp" : "localhost",
+                "loggingServicePort" : 3004,
+                "mongoUri": "mongodb://localhost:27017/soa",
                 "userServiceIp" : "localhost",
                 "userServicePort" : 3001
 	}
