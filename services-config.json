@@ -8,6 +8,8 @@
                 "loggingServiceIp" : "localhost",
                 "loggingServicePort" : 3004,
                 "mongoUri": "mongodb://localhost:27017/soa",
+                "redisHost": "localhost",
+                "redisPort": "6379",
                 "userServiceIp" : "localhost",
                 "userServicePort" : 3001
 	}
