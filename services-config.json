@@ -12,6 +12,7 @@
                 "redisPort": "6379",
                 "systemAdminUsername" : "system.user@brady.com",
                 "systemAdminPassword" : "04ae9250-2455-4151-bf65-01cd99c92e30",
+                "systemAccessToken" : "46a48767-466e-4f65-a41b-bcfe2b1ff8f3",
                 "userServiceIp" : "localhost",
                 "userServicePort" : 3001
 	}
