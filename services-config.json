@@ -8,8 +8,10 @@
                 "loggingServiceIp" : "localhost",
                 "loggingServicePort" : 3004,
                 "mongoUri": "mongodb://localhost:27017/soa",
-                "redisHost": "localhost",
+                "redisHost": "127.0.0.1",
                 "redisPort": "6379",
+                "systemAdminUsername" : "system.user@brady.com",
+                "systemAdminPassword" : "04ae9250-2455-4151-bf65-01cd99c92e30"
                 "userServiceIp" : "localhost",
                 "userServicePort" : 3001
 	}
