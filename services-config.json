@@ -5,6 +5,8 @@
                 "authenticationServicePort" : 3002,
                 "authorizationServiceIp" : "localhost",
                 "authorizationServicePort" : 3003,
+                "bannedIpServiceIp" : "localhost",
+                "bannedIpServicePort" : 3005,
                 "loggingServiceIp" : "localhost",
                 "loggingServicePort" : 3004,
                 "mongoUri": "mongodb://localhost:27017/soa",
