@@ -18,6 +18,6 @@
                 "userServiceIp" : "localhost",
                 "userServicePort" : 3001,
                 "webUiServiceIp" : "localhost",
-                "webUiServicePort" : 3000,
+                "webUiServicePort" : 3000
 	}
 }
